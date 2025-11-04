@@ -18,7 +18,7 @@ def compute_sse_loss(x: np.ndarray, y: np.ndarray, m: float, c: float) -> float:
     loss = np.sum((y - y_pred) ** 2)
     return loss
 
-#### 🧮 Data Provided:
+# Data
 x = np.array([1, 2, 3, 4])
 y = np.array([3, 5, 7, 9])
 m = 2
