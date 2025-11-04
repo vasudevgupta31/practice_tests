@@ -1,4 +1,4 @@
-### 💻 Problem: Gradient Descent for Simple Linear Regression (Find Intercept `c`)
+### Problem: Gradient Descent for Simple Linear Regression (Find Intercept `c`)
 
 """ 
 You are given 4 data points for a simple linear regression problem of the form:
